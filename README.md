@@ -32,4 +32,4 @@
 - weibo_predict.m 主函数，运行获取最终的推荐item列表 
 - test_log_demo.csv 合并后的测试数据集，每行数据包含18维特征 
 - train_log_demo.csv 合并后的训练数据集，同上 
-- test_full_y.csv 预测的推荐item列表（实验结果），每行对应一个test_log_demo中的用户 
+- test_full_y.csv 预测的推荐item列表（__实验结果__），每行对应一个test_log_demo中的用户 
